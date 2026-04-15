@@ -10,3 +10,7 @@ Thumbs.db
 *.pdf
 *.png
 *.jpg
+
+# Exclude assets folder
+!assets/
+!assets/**
