@@ -1,0 +1,12 @@
+# Obsidian system files (optional safe ignores)
+.obsidian/workspace*
+.obsidian/cache*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal exports
+*.pdf
+*.png
+*.jpg
