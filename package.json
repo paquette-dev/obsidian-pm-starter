@@ -1,0 +1,9 @@
+{
+  "name": "obsidian-pm-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Utility scripts for Obsidian PM Starter vault setup.",
+  "scripts": {
+    "plugins:install": "node .scripts/install-plugins.js"
+  }
+}

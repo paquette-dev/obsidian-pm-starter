@@ -4,6 +4,7 @@
 
 ## 🎯 Completed This Week
 ```tasks
+ignore global query
 done after this week
 ```
 
@@ -11,6 +12,7 @@ done after this week
 
 ## 🚧 In Progress
 ```tasks
+ignore global query
 not done
 description includes 🔄
 ```
@@ -19,6 +21,7 @@ description includes 🔄
 
 ## ⚠️ Blocked Work
 ```tasks
+ignore global query
 not done
 description includes ⛔
 ```
